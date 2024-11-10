@@ -31,6 +31,4 @@ Welcome to my GitHub profile! I'm a Computer Science student with a passion for 
 ## 💼 Projects
 
 Check out some of my projects:
-- **[Project 1 Name](link to repository)** - Brief description
-- **[Project 2 Name](link to repository)** - Brief description
-- **[Project 3 Name](link to repository)** - Brief description
+- NONE
