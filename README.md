@@ -1,3 +1,6 @@
+![Cover Banner](https://github.com/shashwathv/shashwathv/blob/main/assets/C3ypF4O.gif)
+
+
 <h1 align="center">Hi 👋, I'm Shashwath V</h1>
 <h3 align="center">A Computer Science student passionate about full-stack development and database management</h3>
 
