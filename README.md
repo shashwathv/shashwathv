@@ -12,12 +12,9 @@
 - 💬 Ask me about **Python**, **SQLite**, **MySQL**, and **PostgreSQL**.  
 - ⚡ Fun fact: **I enjoy learning new technologies and constantly challenging myself to grow as a developer!**
 
-## 📫 How to reach me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwathv4405@gmail.com)
-
 ## 🌐 Let's Connect:
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwathv4405@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwathv4405)
 
 
