@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" width="150" alt="Profile Picture"/>
+  <img src="./assets/third.gif"/>
 </p>
 <h1 align="center">
     Hey there, I'm Shashwath V.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+</h1>
+
+---
 
 
 ## 📖 About Me
@@ -14,11 +16,30 @@
 - 🎓 Computer Science background  
 - 🚀 Curious about how things work under the hood  
 
+--- 
+
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashwathv4405">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:shashwathv4405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 ---
+
+
 
 ## 🔧 What I’m Working On
 - Project: **Yuna AI** (desktop sprite assistant with local models)  
-- Learning: **Better REST APIs, Docker, and deployment workflows** ---
+- Learning: **Better REST APIs, Docker, and deployment workflows**
+
+---
+
 
 ## 🛠️ Languages & Tools
 
