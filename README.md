@@ -159,8 +159,7 @@
 <br/>
 
 ```
-"See it, build it, learn from it. The internals are always evolving —
- the experience never compromises."
+"See it, build it, learn from it. The internals are always evolving —  the experience never compromises."
 ```
 
 
